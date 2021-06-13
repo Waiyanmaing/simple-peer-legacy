@@ -12,10 +12,12 @@ If you already had simple-peer installed and are going to use this one, then aft
 
 addTrack, removeTrack, replaceTrack, and addTransceiver have been removed. addStream and removeStream can still be used.
 
+###credit to ExpandoPakistan/simple-peer-legacy
+
 ## install
 
 ```
-npm install git+https://github.com/ExpandoPakistan/simple-peer-legacy.git
+npm install git+https://github.com/Waiyanmaing/simple-peer-legacy.git
 ```
 
 ## usage
